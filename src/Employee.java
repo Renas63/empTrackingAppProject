@@ -127,7 +127,7 @@ int phoneNumber;
     title, department)
     2- Create getter and setter for instance variables
     3- Create the constructor to set the value to the instance variables
-    ???4- Create one method to create the employeeId length of 20. This employee id must have letters as well.
+    4- Create one method to create the employeeId length of 20. This employee id must have letters as well.
 
        */
 
